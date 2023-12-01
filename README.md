@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaikolCid
+- 👋 Hi, I’m Miguel Cid.
 - 👀 I’m interested in Domotics home automation.
-- 🌱 I’m currently learning Java in the Technical University of Munich
+- 🌱 I’m currently learning Java in the Technical University of Munich.
 - 💞️ I’m looking to collaborate with Home Assistant, their work in home automation is incredible.
 - 📫 How to reach me: miguel.cid@tum.de || +34 640 88 22 88
 
