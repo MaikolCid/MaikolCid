@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Cid.
-- 👀 I’m interested in Domotics home automation.
-- 🌱 I’m currently learning Java and YAML for Home Assistant
+- 👀 I’m interested in domotics Home Automation.
+- 🌱 I’m currently learning Java, C++, Flutter and YAML for Home Assistant
 - 💞️ I’m looking to collaborate with Home Assistant; their work in home automation is incredible.
 - 📫 How to reach me: miguel.cid@tum.de || cid.echevarria.miguel@gmail.com
 
